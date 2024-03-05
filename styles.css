@@ -1,0 +1,56 @@
+body {
+    background-color:#BDBDBD;
+    margin: 0;
+}
+
+div {
+    box-sizing: border-box;
+}
+
+header {
+    background: white;
+    padding: 10px;
+}
+
+header h1 {
+    margin: 0;
+    text-align: center;
+}
+div.post {
+    background: white;
+}
+
+div.post1 {
+    background: bisque;
+}
+
+div.post2 {
+    background: bisque;
+}
+
+div.todo {
+    width: 600px;
+    margin: auto;
+    
+}
+
+div.todo img { 
+    width: 100%;
+    margin-top: -14px;
+}
+
+div.todo h2, div.todo p{
+    padding: 10px;
+}
+
+
+span {
+    padding-left: 430px; /* Agrega 20px de espacio interno a la derecha del span */
+    color: dimgray;
+    font-size: 15px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
